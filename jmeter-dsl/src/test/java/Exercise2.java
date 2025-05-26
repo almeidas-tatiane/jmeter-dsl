@@ -7,6 +7,7 @@ import java.time.Duration;
 
 import static us.abstracta.jmeter.javadsl.JmeterDsl.*;
 
+// Training JSON request
 public class Exercise2 {
     @Test
     public void testExercise2() throws IOException{
