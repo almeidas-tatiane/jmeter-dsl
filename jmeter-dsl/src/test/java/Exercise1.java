@@ -1,7 +1,7 @@
 import static us.abstracta.jmeter.javadsl.JmeterDsl.*;
 import java.io.IOException;
 import java.time.Duration;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import us.abstracta.jmeter.javadsl.core.TestPlanStats;
 
 
