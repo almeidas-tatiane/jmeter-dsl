@@ -5,6 +5,7 @@ import org.junit.Test;
 import us.abstracta.jmeter.javadsl.core.TestPlanStats;
 
 
+// Training simple request
 public class Exercise1 {
 
     @Test
